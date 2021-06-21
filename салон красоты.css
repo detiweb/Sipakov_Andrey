@@ -1,0 +1,20 @@
+body{
+	background: url(фон3.jpg);
+	border: 6px solid pink;
+}
+div{
+	background-color: lightblue;
+}
+a{
+	color: pink;
+	text-decoration: none;
+}
+p{
+	font-family: 'Lora', serif;
+	color: white;
+}
+footer{
+	color: red;
+}
+
+
